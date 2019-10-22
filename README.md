@@ -23,7 +23,7 @@ e também poderia dar tarefas novas para esse projeto.
 - Para fazer o teste das rotas, dentro do terminal só digitar `yarn dev` e ele
   irá executar a atividade
 
-  ### COMO DEVE FUNCIONAR
+### COMO DEVE FUNCIONAR
 
   - Quando você for cadastrar um projeto, deve ser enviado 
     o `id`, `projeto` e `task` no caso do 1 cadastro o 'task' pode sim ir vazio
